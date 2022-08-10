@@ -1,1 +1,4 @@
 Ejemplo de prueba git 1
+
+Sustituye < tagname > con un identificador semántico del estado del repositorio en el momento en el que se crea la etiqueta. Un patrón habitual es utilizar números de versión como git tag v1.4. Git admite dos tipos diferentes de etiquetas: etiquetas anotadas y ligeras. En el ejemplo anterior, se ha creado una etiqueta ligera. Las etiquetas ligeras y las anotadas difieren en la cantidad de metadatos adjuntos que almacenan. Una práctica recomendada es considerar las etiquetas anotadas como públicas y las etiquetas ligeras como privadas. Las etiquetas anotadas almacenan metadatos adicionales como los siguientes: el nombre de la persona que etiqueta, su correo electrónico y la fecha. Son datos importantes para una publicación pública. Las etiquetas ligeras son básicamente “marcadores” de una confirmación; son solo un nombre y un puntero a una confirmación, útiles para crear enlaces rápidos a las confirmaciones relevantes.
+
