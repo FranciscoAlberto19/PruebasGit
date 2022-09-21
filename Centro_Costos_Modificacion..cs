@@ -1,4 +1,4 @@
------>>>>>>>><<<<<<"CENTROS DE COSTOS"<<<<<---->>>>>>>
+----->>>>>>>><<<<<<"CENTROS DE COSTOS"<<<<<---->>>>>
         private bool ValidaUserAdmon (string perfil)
         {
             var CCAdministrados = ObtenerCentrosDeCostosAdministrados();
